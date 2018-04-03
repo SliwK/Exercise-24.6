@@ -1,0 +1,11 @@
+.AddPlayer__submit {
+  background-color: #006266;
+  border-style: none;
+  color: white;
+  line-height: 19px;
+  width: 150px;
+}
+
+.AddPlayer__input {
+  width: 350px;
+}

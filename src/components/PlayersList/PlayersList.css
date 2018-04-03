@@ -1,0 +1,20 @@
+.PlayersList {
+  background-color: #C4E538;
+}
+
+.Player__name {
+  float:left;
+}
+
+.Player__button {
+  background-color: #009432;
+  color: white;
+  float:right;
+  padding: 0 5px;
+}
+
+.Player__score {
+  float: right;
+  margin: 0 10px;
+  width: 30px;
+}
